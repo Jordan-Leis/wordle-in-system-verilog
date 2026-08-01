@@ -1,8 +1,7 @@
 # Wordle in SystemVerilog
 
 A hardware implementation of the word game **Wordle**, built for the
-**Zynq UltraScale+ MPSoC** (Xilinx Kria board) as ECE 327 (*Digital Hardware
-Systems*), Lab 2.
+**Zynq UltraScale+ MPSoC** (Xilinx Kria board).
 
 The puzzle logic (picking the hidden word, scoring each guess letter-by-letter,
 counting guesses, and deciding win/lose) runs entirely in the **programmable
